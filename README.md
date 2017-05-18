@@ -16,6 +16,7 @@
 
 - 05 **Embedding python inside C/C++**: this recipe shows how to integrate a python interpreter inside a C/C++ program;
 
+- 06 **Executing python inside C/C++**: this recipe shows how to run a simple C string as python code;
 
 ## Contributing
 
