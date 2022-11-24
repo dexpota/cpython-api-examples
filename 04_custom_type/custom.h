@@ -79,7 +79,7 @@ static PyTypeObject CustomType = {
         0,                         /* tp_iternext */
         Custom_methods,             /* tp_methods */
         Custom_members,             /* tp_members */
-        Noddy_getseters,                         /* tp_getset */
+        Custom_getseters,                         /* tp_getset */
         0,                         /* tp_base */
         0,                         /* tp_dict */
         0,                         /* tp_descr_get */
