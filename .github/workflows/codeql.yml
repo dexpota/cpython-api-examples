@@ -38,7 +38,7 @@ jobs:
 
     steps:
     - name: Dependencies
-      run: apt install python-dev
+      run: sudo apt-get install python-dev
 
     - name: Checkout repository
       uses: actions/checkout@v3
